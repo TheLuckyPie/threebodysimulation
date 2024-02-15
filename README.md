@@ -10,7 +10,7 @@ Uses the following packages:
 Running the code produces a three-body simulation with a duration of 1 minute with random intial conditions for all three bodies (for mass, initial position, and initial velocity vectors). (If you do run it, prepare to wait around 5 minutes for the simulation and the animated plot to save as an mp4)
 
 Two examples of the mp4 produced (We can notice that both end with an ejection of a single body and a binary system, and infact this is common for all such three-body systems):
-
+(Ensure that your player is compatible with h.264 MPEG, MPEG-4 Avc (Part 10) - For me it works in browsers but not phones unless I use the VLC app)
 
 
 
