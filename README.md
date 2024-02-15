@@ -18,5 +18,6 @@ https://github.com/TheLuckyPie/threebodysimulation/assets/21361577/c57ec358-8293
 
 https://github.com/TheLuckyPie/threebodysimulation/assets/21361577/c9f7700b-1a3e-4506-891e-7b252dcfd951
 
+https://github.com/TheLuckyPie/threebodysimulation/assets/21361577/7ac35731-9193-47ce-8c75-e6fc8f95e0be
 
 
